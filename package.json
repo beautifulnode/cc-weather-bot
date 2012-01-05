@@ -1,0 +1,18 @@
+{
+  "author": "Tom Wilson <tom@jackhq.com>",
+  "name": "cc-image-bot",
+  "description": "A CatChat Bot That Returns an image based on the second word in your message @image [word]",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.x"
+  },
+  "dependencies": {
+    "coffee-script": "*"
+    , "request": "*"
+    , "sugar": "*"
+  },
+  "devDependencies": {}
+}
